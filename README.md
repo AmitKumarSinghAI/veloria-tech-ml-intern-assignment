@@ -21,7 +21,6 @@ veloria-tech-ml-intern-assignment/
 ├── match_data.csv
 ├── model.py
 ├── README.md
-└── x_g_b_model.pkl
 ```
 
 ---
